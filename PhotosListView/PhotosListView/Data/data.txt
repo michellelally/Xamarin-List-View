@@ -1,0 +1,11 @@
+﻿[
+	{
+		"caption": "flower", "description": "flower", "tags": "flower"
+	},
+	{
+		"caption": "bee", "description": "bee", "tags": "bee"
+	},
+	{
+		"caption": "banana", "description": "banana", "tags": "fruit"
+	}
+]

@@ -1,0 +1,13 @@
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\bin\Debug\netstandard2.0\PhotosListView.deps.json
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\bin\Debug\netstandard2.0\PhotosListView.dll
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\bin\Debug\netstandard2.0\PhotosListView.pdb
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\Views\PhotoDetailsPage.xaml.g.cs
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.csproj.CoreCompileInputs.cache
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.AssemblyInfoInputs.cache
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.AssemblyInfo.cs
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.dll
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.pdb
+C:\Users\Shelley\source\repos\PhotosListView\PhotosListView\PhotosListView\obj\Debug\netstandard2.0\PhotosListView.csprojAssemblyReference.cache
